@@ -15,12 +15,11 @@ To write a program to prepare EMI calculator using function without return type 
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/5fa0f7cd-2ae3-4bbb-ad59-471e14f47fb0)
 
 ## OUTPUT
 
-
-
-
+![image](https://github.com/user-attachments/assets/90663e90-dc03-4a5b-95ee-a249b42acbf2)
 
 ## RESULT
 
@@ -30,6 +29,7 @@ Thus the program to prepare EMI calculator using function without return type wi
 
 
 # EX-12-FIBONACCI-SERIES
+
 ## AIM
 To write a C program to generate the Fibonacci series for the value 6.
 
@@ -44,12 +44,12 @@ To write a C program to generate the Fibonacci series for the value 6.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/6a0fc005-afea-4b6e-ac68-edb50ea8e567)
+
+
 ## OUTPUT
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/0a993710-4a1b-4d0d-9427-2dc30ee5a0a6)
 
 
 
@@ -72,14 +72,11 @@ To write a C program to read n elements as input and print the last element of t
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/4b4f50b2-9d2d-442f-8296-a1f6cc0a4ebf)
+
 ## OUTPUT
 
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/5fcad347-8a29-4785-86b0-eafa7485fe1a)
 
 
 ## RESULT
@@ -102,22 +99,15 @@ To write a C Program to count total number of positive elements in an array.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/bc57a170-b7fe-43c9-ba65-8b0692abc6e8)
 
 ## OUTPUT
 
-
-
+![image](https://github.com/user-attachments/assets/25402db1-0199-4ed0-9b71-0f7743760f79)
 
 
 ## RESULT
 Thus the program to count total number of positive elements in an array has been executed successfully.
-
-
-
-
-
- 
- 
 
 
 # EX -15 - Replace All Even Elements With 'E' In One Dimensional Array
@@ -138,8 +128,11 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
 
 ## Program:
 
+![image](https://github.com/user-attachments/assets/47cddeda-1212-42fb-b41a-e21d13077379)
+
 ## Output:
  
+![image](https://github.com/user-attachments/assets/85066a22-16b6-47ef-b634-7d1a63fdc66a)
 
 
 ## Result:
