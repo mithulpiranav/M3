@@ -103,7 +103,7 @@ To write a C Program to count total number of positive elements in an array.
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/25402db1-0199-4ed0-9b71-0f7743760f79)
+![image](https://github.com/user-attachments/assets/b24594b2-e5bb-45ec-9f20-447da574ed82)
 
 
 ## RESULT
